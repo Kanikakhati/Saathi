@@ -1,0 +1,134 @@
+[
+  {
+    "id": "hot_flashes",
+    "domain": "somatic",
+    "question": "How much do sudden heat and sweating episodes bother you?",
+    "options": [
+      { "label": "Not at all", "score": 0 },
+      { "label": "Mild", "score": 1 },
+      { "label": "Moderate", "score": 2 },
+      { "label": "Severe", "score": 3 },
+      { "label": "Very severe", "score": 4 }
+    ]
+  },
+  {
+    "id": "heart_discomfort",
+    "domain": "somatic",
+    "question": "Do you notice an uncomfortable or racing heartbeat?",
+    "options": [
+      { "label": "Never", "score": 0 },
+      { "label": "Rarely", "score": 1 },
+      { "label": "Sometimes", "score": 2 },
+      { "label": "Often", "score": 3 },
+      { "label": "Very often", "score": 4 }
+    ]
+  },
+  {
+    "id": "sleep_problems",
+    "domain": "somatic",
+    "question": "How much trouble do you have falling or staying asleep?",
+    "options": [
+      { "label": "None", "score": 0 },
+      { "label": "Mild", "score": 1 },
+      { "label": "Moderate", "score": 2 },
+      { "label": "Severe", "score": 3 },
+      { "label": "Very severe", "score": 4 }
+    ]
+  },
+  {
+    "id": "joint_muscle_discomfort",
+    "domain": "somatic",
+    "question": "How much joint or muscle discomfort do you experience?",
+    "options": [
+      { "label": "None", "score": 0 },
+      { "label": "Mild", "score": 1 },
+      { "label": "Moderate", "score": 2 },
+      { "label": "Severe", "score": 3 },
+      { "label": "Very severe", "score": 4 }
+    ]
+  },
+  {
+    "id": "depressive_mood",
+    "domain": "psychological",
+    "question": "How often do you feel low, sad, or close to tears?",
+    "options": [
+      { "label": "Never", "score": 0 },
+      { "label": "Rarely", "score": 1 },
+      { "label": "Sometimes", "score": 2 },
+      { "label": "Often", "score": 3 },
+      { "label": "Very often", "score": 4 }
+    ]
+  },
+  {
+    "id": "irritability",
+    "domain": "psychological",
+    "question": "How often do you feel irritable or on edge?",
+    "options": [
+      { "label": "Never", "score": 0 },
+      { "label": "Rarely", "score": 1 },
+      { "label": "Sometimes", "score": 2 },
+      { "label": "Often", "score": 3 },
+      { "label": "Very often", "score": 4 }
+    ]
+  },
+  {
+    "id": "anxiety",
+    "domain": "psychological",
+    "question": "How often do you feel anxious or restless without a clear reason?",
+    "options": [
+      { "label": "Never", "score": 0 },
+      { "label": "Rarely", "score": 1 },
+      { "label": "Sometimes", "score": 2 },
+      { "label": "Often", "score": 3 },
+      { "label": "Very often", "score": 4 }
+    ]
+  },
+  {
+    "id": "exhaustion",
+    "domain": "psychological",
+    "question": "How often do you feel physically or mentally worn out?",
+    "options": [
+      { "label": "Never", "score": 0 },
+      { "label": "Rarely", "score": 1 },
+      { "label": "Sometimes", "score": 2 },
+      { "label": "Often", "score": 3 },
+      { "label": "Very often", "score": 4 }
+    ]
+  },
+  {
+    "id": "sexual_problems",
+    "domain": "urogenital",
+    "question": "Have you noticed a change in sexual desire or comfort?",
+    "options": [
+      { "label": "No change", "score": 0 },
+      { "label": "Slight change", "score": 1 },
+      { "label": "Moderate change", "score": 2 },
+      { "label": "Significant change", "score": 3 },
+      { "label": "Major change", "score": 4 }
+    ]
+  },
+  {
+    "id": "bladder_problems",
+    "domain": "urogenital",
+    "question": "Do you have trouble with your bladder (urgency, leaking, frequent trips)?",
+    "options": [
+      { "label": "None", "score": 0 },
+      { "label": "Mild", "score": 1 },
+      { "label": "Moderate", "score": 2 },
+      { "label": "Severe", "score": 3 },
+      { "label": "Very severe", "score": 4 }
+    ]
+  },
+  {
+    "id": "vaginal_dryness",
+    "domain": "urogenital",
+    "question": "Do you experience vaginal dryness or discomfort?",
+    "options": [
+      { "label": "None", "score": 0 },
+      { "label": "Mild", "score": 1 },
+      { "label": "Moderate", "score": 2 },
+      { "label": "Severe", "score": 3 },
+      { "label": "Very severe", "score": 4 }
+    ]
+  }
+]
