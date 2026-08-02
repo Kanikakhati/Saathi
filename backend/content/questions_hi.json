@@ -1,0 +1,134 @@
+[
+  {
+    "id": "hot_flashes",
+    "domain": "somatic",
+    "question": "अचानक गर्मी लगना और पसीना आना आपको कितना परेशान करता है?",
+    "options": [
+      { "label": "बिल्कुल नहीं", "score": 0 },
+      { "label": "हल्का", "score": 1 },
+      { "label": "मध्यम", "score": 2 },
+      { "label": "गंभीर", "score": 3 },
+      { "label": "बहुत गंभीर", "score": 4 }
+    ]
+  },
+  {
+    "id": "heart_discomfort",
+    "domain": "somatic",
+    "question": "क्या आपको दिल की धड़कन तेज़ या असहज महसूस होती है?",
+    "options": [
+      { "label": "कभी नहीं", "score": 0 },
+      { "label": "कभी-कभार", "score": 1 },
+      { "label": "कभी-कभी", "score": 2 },
+      { "label": "अक्सर", "score": 3 },
+      { "label": "बहुत अक्सर", "score": 4 }
+    ]
+  },
+  {
+    "id": "sleep_problems",
+    "domain": "somatic",
+    "question": "नींद आने या नींद बनाए रखने में आपको कितनी दिक्कत होती है?",
+    "options": [
+      { "label": "कोई दिक्कत नहीं", "score": 0 },
+      { "label": "हल्की", "score": 1 },
+      { "label": "मध्यम", "score": 2 },
+      { "label": "गंभीर", "score": 3 },
+      { "label": "बहुत गंभीर", "score": 4 }
+    ]
+  },
+  {
+    "id": "joint_muscle_discomfort",
+    "domain": "somatic",
+    "question": "जोड़ों या मांसपेशियों में कितनी तकलीफ़ महसूस होती है?",
+    "options": [
+      { "label": "कोई तकलीफ़ नहीं", "score": 0 },
+      { "label": "हल्की", "score": 1 },
+      { "label": "मध्यम", "score": 2 },
+      { "label": "गंभीर", "score": 3 },
+      { "label": "बहुत गंभीर", "score": 4 }
+    ]
+  },
+  {
+    "id": "depressive_mood",
+    "domain": "psychological",
+    "question": "कितनी बार आपका मन उदास या रोने जैसा महसूस होता है?",
+    "options": [
+      { "label": "कभी नहीं", "score": 0 },
+      { "label": "कभी-कभार", "score": 1 },
+      { "label": "कभी-कभी", "score": 2 },
+      { "label": "अक्सर", "score": 3 },
+      { "label": "बहुत अक्सर", "score": 4 }
+    ]
+  },
+  {
+    "id": "irritability",
+    "domain": "psychological",
+    "question": "कितनी बार आपको चिड़चिड़ापन या गुस्सा महसूस होता है?",
+    "options": [
+      { "label": "कभी नहीं", "score": 0 },
+      { "label": "कभी-कभार", "score": 1 },
+      { "label": "कभी-कभी", "score": 2 },
+      { "label": "अक्सर", "score": 3 },
+      { "label": "बहुत अक्सर", "score": 4 }
+    ]
+  },
+  {
+    "id": "anxiety",
+    "domain": "psychological",
+    "question": "बिना किसी वजह के कितनी बार बेचैनी या घबराहट महसूस होती है?",
+    "options": [
+      { "label": "कभी नहीं", "score": 0 },
+      { "label": "कभी-कभार", "score": 1 },
+      { "label": "कभी-कभी", "score": 2 },
+      { "label": "अक्सर", "score": 3 },
+      { "label": "बहुत अक्सर", "score": 4 }
+    ]
+  },
+  {
+    "id": "exhaustion",
+    "domain": "psychological",
+    "question": "कितनी बार आप शारीरिक या मानसिक रूप से बहुत थकी हुई महसूस करती हैं?",
+    "options": [
+      { "label": "कभी नहीं", "score": 0 },
+      { "label": "कभी-कभार", "score": 1 },
+      { "label": "कभी-कभी", "score": 2 },
+      { "label": "अक्सर", "score": 3 },
+      { "label": "बहुत अक्सर", "score": 4 }
+    ]
+  },
+  {
+    "id": "sexual_problems",
+    "domain": "urogenital",
+    "question": "क्या आपने यौन इच्छा या सहजता में कोई बदलाव महसूस किया है?",
+    "options": [
+      { "label": "कोई बदलाव नहीं", "score": 0 },
+      { "label": "थोड़ा बदलाव", "score": 1 },
+      { "label": "मध्यम बदलाव", "score": 2 },
+      { "label": "काफ़ी बदलाव", "score": 3 },
+      { "label": "बड़ा बदलाव", "score": 4 }
+    ]
+  },
+  {
+    "id": "bladder_problems",
+    "domain": "urogenital",
+    "question": "क्या आपको पेशाब से जुड़ी दिक्कतें होती हैं (बार-बार जाना, रोक न पाना)?",
+    "options": [
+      { "label": "कोई दिक्कत नहीं", "score": 0 },
+      { "label": "हल्की", "score": 1 },
+      { "label": "मध्यम", "score": 2 },
+      { "label": "गंभीर", "score": 3 },
+      { "label": "बहुत गंभीर", "score": 4 }
+    ]
+  },
+  {
+    "id": "vaginal_dryness",
+    "domain": "urogenital",
+    "question": "क्या आपको योनि में सूखापन या असहजता महसूस होती है?",
+    "options": [
+      { "label": "बिल्कुल नहीं", "score": 0 },
+      { "label": "हल्की", "score": 1 },
+      { "label": "मध्यम", "score": 2 },
+      { "label": "गंभीर", "score": 3 },
+      { "label": "बहुत गंभीर", "score": 4 }
+    ]
+  }
+]

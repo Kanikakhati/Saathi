@@ -1,0 +1,114 @@
+{
+  "none": {
+    "en": {
+      "diet": [
+        "Keep up a balanced diet with calcium-rich foods like milk, curd, and leafy greens.",
+        "Stay hydrated through the day.",
+        "Limit caffeine and alcohol in the evening if sleep feels light."
+      ],
+      "exercise": [
+        "30 minutes of brisk walking, most days of the week.",
+        "Add light stretching or yoga for flexibility.",
+        "No specific restrictions right now — general fitness is enough."
+      ],
+      "note": "Your symptoms are minimal right now. No action needed beyond healthy habits."
+    },
+    "hi": {
+      "diet": [
+        "दूध, दही और हरी पत्तेदार सब्ज़ियों जैसे कैल्शियम युक्त संतुलित आहार लें।",
+        "दिन भर पानी पीते रहें।",
+        "अगर नींद हल्की महसूस हो तो शाम को चाय-कॉफ़ी और शराब कम करें।"
+      ],
+      "exercise": [
+        "हफ़्ते के ज़्यादातर दिन 30 मिनट तेज़ चलें।",
+        "लचीलेपन के लिए हल्की स्ट्रेचिंग या योग करें।",
+        "फ़िलहाल कोई खास पाबंदी नहीं — सामान्य फिटनेस काफ़ी है।"
+      ],
+      "note": "अभी आपके लक्षण बहुत कम हैं। स्वस्थ आदतों के अलावा किसी और कदम की ज़रूरत नहीं।"
+    }
+  },
+  "mild": {
+    "en": {
+      "diet": [
+        "Add phytoestrogen-rich foods like soybean, flaxseed, and chana.",
+        "Cut back on spicy food and caffeine if hot flashes are bothering you.",
+        "Small, frequent meals can help with mood and energy dips."
+      ],
+      "exercise": [
+        "30-40 minutes of walking or cycling, 4-5 days a week.",
+        "Add strength exercises twice a week for bone health.",
+        "Try breathing exercises or yoga if irritability or anxiety shows up."
+      ],
+      "note": "Mild symptoms — lifestyle changes usually help a lot at this stage."
+    },
+    "hi": {
+      "diet": [
+        "सोयाबीन, अलसी और चने जैसे फाइटोएस्ट्रोजन युक्त खाद्य पदार्थ शामिल करें।",
+        "अगर गर्मी लगने की समस्या हो तो तीखा खाना और चाय-कॉफ़ी कम करें।",
+        "थोड़ा-थोड़ा और बार-बार खाना मूड और ऊर्जा बनाए रखने में मदद करता है।"
+      ],
+      "exercise": [
+        "हफ़्ते में 4-5 दिन 30-40 मिनट पैदल चलें या साइकिल चलाएं।",
+        "हड्डियों की सेहत के लिए हफ़्ते में दो बार हल्की स्ट्रेंथ एक्सरसाइज़ करें।",
+        "चिड़चिड़ापन या बेचैनी महसूस हो तो प्राणायाम या योग आज़माएं।"
+      ],
+      "note": "लक्षण हल्के हैं — इस स्तर पर जीवनशैली में बदलाव अक्सर काफी मदद करते हैं।"
+    }
+  },
+  "moderate": {
+    "en": {
+      "diet": [
+        "Prioritize calcium and vitamin D — consider a supplement after checking with a doctor.",
+        "Reduce sugar and processed food, which can worsen mood swings.",
+        "Keep a symptom-food diary to spot personal triggers for hot flashes."
+      ],
+      "exercise": [
+        "Moderate aerobic activity most days, plus 2 strength sessions a week.",
+        "Pelvic floor exercises can help with bladder discomfort.",
+        "Prioritize a consistent sleep and wake time to support sleep problems."
+      ],
+      "note": "Symptoms are noticeable enough to affect daily life — consider a doctor visit alongside these changes."
+    },
+    "hi": {
+      "diet": [
+        "कैल्शियम और विटामिन डी को प्राथमिकता दें — डॉक्टर से पूछकर सप्लीमेंट पर विचार करें।",
+        "चीनी और प्रोसेस्ड खाना कम करें, यह मूड स्विंग बढ़ा सकता है।",
+        "गर्मी लगने के अपने ट्रिगर पहचानने के लिए खान-पान की डायरी रखें।"
+      ],
+      "exercise": [
+        "ज़्यादातर दिन मध्यम कसरत करें, साथ ही हफ़्ते में 2 बार स्ट्रेंथ ट्रेनिंग करें।",
+        "पेल्विक फ्लोर एक्सरसाइज़ पेशाब की तकलीफ़ में मदद कर सकती है।",
+        "नींद की समस्या के लिए सोने-जागने का समय एक जैसा रखें।"
+      ],
+      "note": "लक्षण अब रोज़मर्रा की ज़िंदगी पर असर डालने लगे हैं — इन बदलावों के साथ डॉक्टर से मिलना भी सोचें।"
+    }
+  },
+  "severe": {
+    "en": {
+      "diet": [
+        "Continue calcium, vitamin D, and phytoestrogen-rich foods, but treat this as support, not a fix.",
+        "Avoid alcohol and late caffeine, which can intensify hot flashes and sleep problems.",
+        "A doctor may want to review your diet alongside any treatment plan."
+      ],
+      "exercise": [
+        "Keep movement gentle and consistent — walking and yoga are safe starting points.",
+        "Avoid pushing through joint or muscle pain; check with a doctor if it's severe.",
+        "Focus on stress-reduction practices like breathing exercises."
+      ],
+      "note": "Your symptoms are significant. Please use the doctor finder to book a visit — these tips work best alongside medical guidance, not instead of it."
+    },
+    "hi": {
+      "diet": [
+        "कैल्शियम, विटामिन डी और फाइटोएस्ट्रोजन युक्त खाना जारी रखें, लेकिन इसे इलाज नहीं, सहायक मानें।",
+        "शराब और देर रात की चाय-कॉफ़ी से बचें, ये गर्मी लगने और नींद की समस्या बढ़ा सकते हैं।",
+        "डॉक्टर आपके इलाज की योजना के साथ आपके खान-पान की भी समीक्षा कर सकते हैं।"
+      ],
+      "exercise": [
+        "हल्की और नियमित गतिविधि रखें — पैदल चलना और योग सुरक्षित शुरुआत है।",
+        "जोड़ों या मांसपेशियों के दर्द में ज़बरदस्ती न करें; गंभीर हो तो डॉक्टर से पूछें।",
+        "प्राणायाम जैसी तनाव कम करने वाली आदतों पर ध्यान दें।"
+      ],
+      "note": "आपके लक्षण गंभीर हैं। कृपया डॉक्टर फाइंडर का उपयोग करके अपॉइंटमेंट लें — ये सुझाव डॉक्टरी सलाह के साथ मदद करते हैं, उसकी जगह नहीं।"
+    }
+  }
+}
