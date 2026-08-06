@@ -16,6 +16,27 @@ uvicorn app.main:app --reload
 
 Open `http://127.0.0.1:8000/docs` for interactive Swagger docs — the fastest
 way to demo this to the other three members or to judges.
+### Troubleshooting: signup/login returns 500
+
+If `/auth/register` or `/auth/login` crashes with a 500, check your installed
+`bcrypt` version:
+
+​```bash
+pip show bcrypt
+​```
+
+`passlib==1.7.4` reads an internal `bcrypt.__about__.__version__` attribute
+that was removed in `bcrypt` 4.1.0+. If `pip install` grabbed a newer bcrypt
+(5.x, as of this writing) before you had it pinned, password hashing breaks
+at runtime. Fix:
+
+​```bash
+pip install "bcrypt==4.0.1" --force-reinstall
+​```
+
+`requirements.txt` now pins this explicitly, so a fresh `pip install -r
+requirements.txt` won't hit it — this note is for anyone who installed
+before the pin was added.
 
 ## Run the tests
 
