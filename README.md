@@ -5,10 +5,9 @@ A voice-first menopause companion app for India — helping women notice, unders
 Built for the Commudle Girls Hack Day (8 Aug 2026).
 
 ## Project status
-
-- **Frontend** — done. React + Tailwind, all 8 screens built (landing, auth, onboarding, dashboard, check-in, report, doctor finder, family share).
-- **Backend** — in progress (separate teammate). Not yet connected — all data on the frontend is currently mocked/hardcoded.
-
+- **Frontend** — done. React + Tailwind, all 8 screens built (landing, auth, onboarding, dashboard, check-in, report, doctor finder, family share). Auth, check-in (voice + MRS quiz fallback), and entry submission are wired to real backend/AI services. Report, Dashboard, and Doctor pages still show sample data.
+- **Backend** — done. FastAPI: auth, symptom entries, MRS quiz content, doctor finder. See `backend/README.md`.
+- **AI/NLP service** — done. Hybrid rule-based + optional LLM scoring. See `nlp-service/README.md`.
 ## Tech stack
 
 - React + Vite
@@ -41,7 +40,7 @@ src/
 | Route          | Screen                              |
 |-----------------|--------------------------------------|
 | `/`             | Landing page                        |
-| `/auth`         | Sign up / log in (phone + OTP)      |
+| `/auth`         | Sign up / log in (phone + password) |      |
 | `/onboarding`   | New user setup                      |
 | `/dashboard`    | Home (voice/text check-in, charts)  |
 | `/checkin`      | Conversation screen                 |
