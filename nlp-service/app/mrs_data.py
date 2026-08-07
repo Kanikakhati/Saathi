@@ -16,7 +16,7 @@ MRS_KEYS = [
     "depressive_mood",      # Feeling low, sad, tearful, loss of interest
     "irritability",         # Feeling nervous, tense, aggressive
     "anxiety",              # Inner restlessness, feeling panicky
-    "physical_exhaustion",  # Fatigue, decreased performance, poor concentration
+    "exhaustion",  # Fatigue, decreased performance, poor concentration
     "sexual_problems",      # Change in sexual desire/activity/satisfaction
     "bladder_problems",     # Difficulty urinating, urinary frequency/urgency
     "vaginal_dryness",      # Dryness, discomfort during intercourse
@@ -31,7 +31,7 @@ MRS_LABELS = {
     "depressive_mood": {"en": "Depressive mood", "hi": "उदासी / मन भारी होना"},
     "irritability": {"en": "Irritability", "hi": "चिड़चिड़ापन"},
     "anxiety": {"en": "Anxiety", "hi": "बेचैनी / चिंता"},
-    "physical_exhaustion": {"en": "Physical & mental exhaustion", "hi": "थकावट"},
+    "exhaustion": {"en": "Physical & mental exhaustion", "hi": "थकावट"},
     "sexual_problems": {"en": "Sexual problems", "hi": "यौन समस्याएं"},
     "bladder_problems": {"en": "Bladder problems", "hi": "पेशाब की समस्या"},
     "vaginal_dryness": {"en": "Vaginal dryness", "hi": "योनि में सूखापन"},
