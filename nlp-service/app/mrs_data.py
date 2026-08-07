@@ -75,7 +75,7 @@ MRS_KEYWORDS = {
         ("panic", 4), ("dar lagta", 3), ("restless", 2), ("बेचैनी", 3),
         ("tension rehta", 2),
     ],
-    "physical_exhaustion": [
+    "exhaustion": [
         ("thakaan", 3), ("thak jaati", 3), ("tired", 2), ("exhausted", 3),
         ("energy nahi", 3), ("kamzori", 3), ("focus nahi", 2), ("concentration", 2),
         ("थकान", 3), ("kaam karne ka man nahi", 2),
