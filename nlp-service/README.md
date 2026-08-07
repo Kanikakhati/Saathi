@@ -7,7 +7,7 @@
 ```bash
 cd saathi-nlp
 pip install -r requirements.txt --break-system-packages   # drop the flag if not on Debian/Ubuntu
-uvicorn app.main:app --reload --port 8000
+uvicorn app.main:app --reload --port 8001
 ```
 
 
