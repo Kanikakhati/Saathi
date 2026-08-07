@@ -4,6 +4,10 @@ sqlalchemy==2.0.35
 pydantic==2.9.2
 pydantic-settings==2.5.2
 passlib[bcrypt]==1.7.4
+# passlib 1.7.4 reads bcrypt.__about__.__version__, which bcrypt removed in
+# 4.1.0 — installing latest bcrypt (5.x) breaks password hashing at runtime
+# (500 on /auth/register and /auth/login). Pin below that break point.
+bcrypt==4.0.1
 python-jose[cryptography]==3.3.0
 python-multipart==0.0.9
 httpx==0.27.2
